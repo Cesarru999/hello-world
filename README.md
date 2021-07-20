@@ -1,2 +1,2 @@
 # hello-world
-this is my first repository XD
+this is a copy of the first branch
